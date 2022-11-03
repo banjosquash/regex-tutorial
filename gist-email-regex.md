@@ -1,4 +1,3 @@
-
 # Email Match - Regex Tutorial
 
 /^([a-zA-Z0-9._%-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z]{2,6})*$/ -- look confusing? this is a common email regex validator. 
